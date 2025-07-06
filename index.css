@@ -6,3 +6,20 @@ body {
     display: flex;
     justify-content: space-around;
 }
+
+.score {
+    background-color: black;
+    height: 120px;
+    width: 120px;
+    color: white;
+    padding: 10px;
+    font-size: 24px;
+}
+
+.score-buttons {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    width: 120px;
+    justify-content: center;
+}
